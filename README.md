@@ -95,10 +95,6 @@ sudo cmake --install build
 ##### Option 2: Using Homebrew (if available)
 
 ```bash
-# If you have a Homebrew formula
-brew install hexview
-
-# Or install from local build
 cp build/hexview /usr/local/bin/
 ```
 

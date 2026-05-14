@@ -35,9 +35,6 @@ A hex dump utility written in C++20 that provides enhanced functionality over tr
 ## 🚀 Quick Install
 
 ```bash
-# macOS (with Homebrew) - if available
-brew install hexview
-
 # Ubuntu/Debian
 sudo apt install build-essential cmake git
 git clone https://github.com/your-username/hexview.git
